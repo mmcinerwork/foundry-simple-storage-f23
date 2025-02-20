@@ -2,3 +2,4 @@
 2. CTRL+SHIFT+P Search "WSL reopen folder in WSL"
 3. forge init --force, initialises a new project in this folder
 4. Delete the boiler plate files from source test and script
+log in
